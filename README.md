@@ -8,7 +8,7 @@
 
 ### Création d'un premier composant React
 - Dans le package ```./src/components/exercice-1```. créer le composant ```Exercice1``` dont le comportement est le suivant :
-  - 	Le composant affiche un header avec le titre « Exercice 1 »
+  - Le composant affiche un header avec le titre « Exercice 1 »
   -	Le composant affiche en contenu « Hello world ! »
   -	Le composant affiche un footer avec la date et l’heure
 
@@ -17,6 +17,7 @@
  
 Note : on pourra utiliser la fonction javascript ```toLocalDateString``` de ```Date``` pour afficher la date et l’heure au format voulu (voir [Date.prototype.toLocaleString()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)).
 
+<u>Exemple :</u>
 ```
 new Date().toLocaleDateString('fr-FR', {
     weekday: 'long',

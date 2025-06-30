@@ -7,7 +7,7 @@
 - Dans le dossier ```exercice_1``` lancer les commande ```npm install``` (ou ```npm i```) puis ```npm start```
 
 ### Création d'un premier composant React
-- Dans le package ```./src/features/exercices/pages/exercice-1```. créer le composant ```Exercice1Page``` dont le comportement est le suivant :
+- Dans le package ```./src/features/exercice-1/pages```. créer le composant ```Exercice1Page``` dont le comportement est le suivant :
   - Le composant affiche un header avec le titre « Exercice 1 - Création d'un premier composant React »
   -	Le composant affiche en contenu « Hello world ! »
   -	Le composant affiche un footer avec la date et l’heure

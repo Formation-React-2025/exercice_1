@@ -1,5 +1,5 @@
 import React from 'react';
-import Exercice1Page from './features/exercices/pages/exercice-1/Exercice1Page';
+import Exercice1Page from './features/exercice-1/pages/Exercice1Page';
 
 const App = () => (
   <main>
